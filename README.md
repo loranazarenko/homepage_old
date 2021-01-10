@@ -1,2 +1,4 @@
 # Homepage
-My very own personal website. Basically this is just a résumé.git commit -a -m "Undobracadabra"
+My very own personal website. Basically this is just a résumé.
+
+Hocus-pocus!
